@@ -1,0 +1,13 @@
+{
+  "name": "word-graph",
+  "version": "1.0.0",
+  "description": "Search Suggestion Engine",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
+}
